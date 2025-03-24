@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class leetcode560{
+class leetcode523{
     public boolean checkSubarraySum(int[] nums, int k) {
         HashMap<Integer, Integer> remainderMap = new HashMap<>();
         remainderMap.put(0, -1); 
