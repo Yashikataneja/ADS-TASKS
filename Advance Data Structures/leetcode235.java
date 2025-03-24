@@ -1,4 +1,4 @@
-public class lowestcommances {
+public class leetcode235 {
     //traverse in bst, mode left if both nodes are smaller,
     //move right if both nodes are larger.
 
