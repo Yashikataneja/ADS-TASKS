@@ -11,7 +11,7 @@
 
 
 
-public class DiameterOfBinary {
+public class leetcode543 {
     static int diameter=0;
     public static int doBT(TreeNode root){
         height(root);
